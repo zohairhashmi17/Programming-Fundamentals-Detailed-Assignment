@@ -1,4 +1,4 @@
-print('zohair hashmi - 18b-17-cs - Section A')
+print('zohair hashmi - 18b-127-cs - Section A')
 print('Practice Problem - 3.1(d)')
 
 a = input('enter a direction:')
